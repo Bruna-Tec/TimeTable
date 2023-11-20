@@ -1,0 +1,248 @@
+NotasFrequencia As screen:
+    BackgroundImage: =
+    Fill: =RGBA(0, 0, 0, 0)
+    ImagePosition: =ImagePosition.Tile
+
+    "Gallery2 As gallery.'BrowseLayout_Vertical_ThreeTextVariant_ver4.0'":
+        BorderColor: =RGBA(0, 78, 100, 1)
+        Height: =506
+        Items: =Search('Notas e Faltas',TextInputNotasFaltas.Text,"Title","NotaP1")
+        Layout: =Layout.Vertical
+        TemplatePadding: =0
+        TemplateSize: =Min(168, Self.Height - 60)
+        Y: =489
+        ZIndex: =1
+
+        Title5 As label:
+            Color: =RGBA(51, 51, 51, 1)
+            Height: =38
+            OnSelect: =Select(Parent)
+            PaddingBottom: =0
+            PaddingLeft: =0
+            PaddingRight: =0
+            PaddingTop: =0
+            Size: =18
+            Text: |-
+                ="Disciplina: " & ThisItem.Título
+            VerticalAlign: =VerticalAlign.Top
+            Width: =Parent.TemplateWidth - 104
+            X: =32
+            Y: =16
+            ZIndex: =1
+
+        Subtitle3 As label:
+            Color: =RGBA(51, 51, 51, 1)
+            Height: =Self.Size * 1.8
+            OnSelect: =Select(Parent)
+            PaddingBottom: =0
+            PaddingLeft: =0
+            PaddingRight: =0
+            PaddingTop: =0
+            Text: |-
+                ="Nota P1: " & ThisItem.'Nota P1'
+            VerticalAlign: =VerticalAlign.Top
+            Width: =Parent.TemplateWidth - 104
+            X: =32
+            Y: =Title5.Y + Title5.Height + 2
+            ZIndex: =2
+
+        Body2 As label:
+            Color: =RGBA(51, 51, 51, 1)
+            Height: =37
+            OnSelect: =Select(Parent)
+            PaddingBottom: =0
+            PaddingLeft: =0
+            PaddingRight: =0
+            PaddingTop: =0
+            Text: |-
+                ="Faltas: " & ThisItem.'Total Faltas'
+            VerticalAlign: =VerticalAlign.Top
+            Width: =Parent.TemplateWidth - 104
+            X: =32
+            Y: =Subtitle3.Y + Subtitle3.Height + 4
+            ZIndex: =3
+
+        NextArrow5 As icon.ChevronRight:
+            AccessibleLabel: =Self.Tooltip
+            Color: =RGBA(0, 78, 100, 1)
+            Height: =60
+            Icon: =Icon.ChevronRight
+            OnSelect: =Select(Parent)
+            PaddingBottom: =10
+            PaddingLeft: =10
+            PaddingRight: =10
+            PaddingTop: =10
+            TabIndex: =0
+            Tooltip: ="Exibir detalhes do item"
+            Width: =60
+            X: =580
+            Y: =88
+            ZIndex: =4
+
+        Separator6 As rectangle:
+            Height: =1
+            OnSelect: =Select(Parent)
+            Width: =Parent.TemplateWidth
+            Y: =Parent.TemplateHeight - 1
+            ZIndex: =5
+
+    Label15 As label:
+        Color: =RGBA(51, 51, 51, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =57
+        Size: =20
+        Text: |-
+            ="Disciplina:"
+        Width: =180
+        X: =40
+        Y: =265
+        ZIndex: =23
+
+    Footer_NotasFrequencia As group:
+        Height: =5
+        Width: =5
+        X: =40
+        Y: =40
+        ZIndex: =32
+
+        Rectangle3_46 As rectangle:
+            Fill: =RGBA(122, 229, 130, 1)
+            Height: =140
+            Width: =640
+            Y: =996
+            ZIndex: =25
+
+        Facebook_12 As image:
+            Height: =65
+            Image: ='icons8-facebook-90'
+            TabIndex: =2
+            Width: =65
+            X: =84
+            Y: =1020
+            ZIndex: =26
+
+        Instagram_12 As image:
+            Height: =65
+            Image: ='icons8-instagram-128'
+            TabIndex: =2
+            Width: =65
+            X: =187
+            Y: =1020
+            ZIndex: =27
+
+        Linkedin_12 As image:
+            Height: =65
+            Image: ='icons8-linkedin-128'
+            TabIndex: =2
+            Width: =65
+            X: =289
+            Y: =1020
+            ZIndex: =28
+
+        Youtube_12 As image:
+            Height: =65
+            Image: ='icons8-youtube-squared-128'
+            TabIndex: =2
+            Width: =65
+            X: =390
+            Y: =1020
+            ZIndex: =29
+
+        Twitter_12 As image:
+            Height: =65
+            Image: ='icons8-twitter-squared-64'
+            TabIndex: =2
+            Width: =65
+            X: =490
+            Y: =1020
+            ZIndex: =30
+
+        "'Todos os direitos reservados_14' As label":
+            Align: =Align.Center
+            Color: =RGBA(105, 105, 105, 1)
+            Size: =14
+            Text: ="Todos os direitos reservados - 2023"
+            Width: =377
+            X: =144
+            Y: =1092
+            ZIndex: =31
+
+    TextInputNotasFaltas As text:
+        BorderColor: =RGBA(0, 78, 100, 1)
+        Default: =""
+        Height: =70
+        HintText: ="Digite o nome da disciplina"
+        Size: =21
+        Width: =501
+        X: =40
+        Y: =343
+        ZIndex: =36
+
+    Header_NotasFrequencia As group:
+        Height: =5
+        Width: =5
+        X: =40
+        Y: =20
+        ZIndex: =36
+
+        Rectangle3_47 As rectangle:
+            Fill: =RGBA(122, 229, 130, 1)
+            Height: =125
+            Width: =640
+            ZIndex: =33
+
+        Image12_23 As image:
+            Height: =80
+            Image: ='NATAL 2022_1'
+            OnSelect: =Navigate(TelaAcesso)
+            Width: =102
+            X: =521
+            Y: =19
+            ZIndex: =34
+
+        Icon2_17 As icon.Hamburger:
+            Color: =RGBA(0, 165, 207, 1)
+            FocusedBorderThickness: =10
+            Height: =55
+            Icon: =Icon.Hamburger
+            OnSelect: =Navigate(TelaMenu)
+            Width: =55
+            X: =39
+            Y: =31
+            ZIndex: =35
+
+    Icon2 As icon.Search:
+        Color: =RGBA(0, 78, 100, 1)
+        Height: =44
+        Icon: =Icon.Search
+        Width: =44
+        X: =555
+        Y: =356
+        ZIndex: =37
+
+    Titulo_NotasFreq_1 As group:
+        Height: =5
+        Width: =5
+        X: =40
+        Y: =40
+        ZIndex: =40
+
+        Image25_10 As image:
+            Height: =50
+            Image: ='29'
+            Width: =65
+            X: =108
+            Y: =142
+            ZIndex: =38
+
+        Label1_20 As label:
+            Color: =RGBA(0, 78, 100, 1)
+            FontWeight: =FontWeight.Bold
+            Height: =60
+            Size: =26
+            Text: ="Notas e frequência"
+            Width: =350
+            X: =191
+            Y: =136
+            ZIndex: =39
+

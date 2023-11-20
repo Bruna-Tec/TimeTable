@@ -1,0 +1,77 @@
+{
+  "011faafa-c34d-46b3-87be-7ccdd485d9cb": {
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/u/laborbol/releases/ase-v3/1.0.1622.3200/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {
+      "https://bp84.sharepoint.com/sites/Calendrio": {
+        "dataSources": {
+          "Calendário TimeTable": {
+            "tableName": "6747d1f9-f417-4d91-a9aa-4e01b4ae1989"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Calendário TimeTable",
+      "Notas e Faltas"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "011faafa-c34d-46b3-87be-7ccdd485d9cb"
+  },
+  "50471254-8922-4980-9b2b-f48fb005d5a9": {
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "Fluxos lógicos",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1615/1.0.1615.3163/logicflows/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_logicflows",
+      "parameterHints": {
+        "workflowEntityId": {},
+        "workflowName": {
+          "value": "a51f0f04-0a8c-4391-acf8-8880ace98876"
+        }
+      },
+      "parameterHintsV2": {
+        "workflowEntityId": {},
+        "workflowName": {
+          "value": "a51f0f04-0a8c-4391-acf8-8880ace98876"
+        }
+      }
+    },
+    "datasets": {},
+    "dataSources": [
+      "ConsultaCep"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "50471254-8922-4980-9b2b-f48fb005d5a9"
+  },
+  "68fdde3e-59e6-4b66-bd28-f6116d9e01ea": {
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/u/laborbol/releases/ase-v3/1.0.1622.3200/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://bp84-my.sharepoint.com/personal/bruna_pacheco_bp84_onmicrosoft_com": {
+        "dataSources": {
+          "Notas e Faltas": {
+            "tableName": "7c690031-5b8c-4eb7-a54f-01b6253d696a"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Notas e Faltas"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "68fdde3e-59e6-4b66-bd28-f6116d9e01ea"
+  }
+}
