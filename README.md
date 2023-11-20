@@ -1,2 +1,6 @@
 # TimeTable
-TIMETABLE é um aplicativo desenvolvido em lowcode  e destina-se auxiliar  alunos em tarefas como cadastro de disciplinas, consulta de notas, tarefas, frequência, agenda de avaliações e trabalhos acadêmicos.
+
+O aplicativo TIMETABLE foi criado a partir da proposta de desenvolvimento de um Sistema Web Modularizavel do Projeto Integrador do 4º semestre do curso de Sistemas para Internet do Senac EAD. O Aplicativo destina-se ao uso acadêmico para melhor organização da agenda do aluno. Foi desenvolvido através do Power Apps (Low Code).
+
+
+
