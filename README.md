@@ -55,12 +55,12 @@ Para testar a aplicação é necessário seguir os seguintes passos:
 
       4. Ao clicar em calendário abre-se uma tela contendo a relação da atividades agendadas. O botão ***CONTINUAR*** retorna ao menú principal.
       
-          ![menucalendario](https://user-images.githubusercontent.com/59966478/224859712-7ac6178a-a445-4865-890f-3330c9b0378c.png)
-          
+         ![calendario](https://github.com/Bruna-Tec/TimeTable/assets/150478974/fb399b36-37ff-44a0-92f7-6b46bcb3b69c)
+
       5. O caminho ***Mural de avisos*** abre uma tela contendo quadros com mensagens de aviso. É possível navegar entre as telas do Mural clicando nos números na base da tela. É possível ainda, abrir uma tela com detalhes sobre cada aviso clicando no botão ***Ler mais***.
       
-          ![menumuraldeavisos](https://user-images.githubusercontent.com/59966478/224860585-656f394b-140d-4367-8ae2-f0e90985f472.png) ![teladetalheavisos](https://user-images.githubusercontent.com/59966478/224860702-000e285f-fd3f-4e6e-85d1-179fd1f31591.png)
-
+        ![muraldeavisos](https://github.com/Bruna-Tec/TimeTable/assets/150478974/77b334da-cb0d-4870-853f-7d579bccc2c2). ![aviso](https://github.com/Bruna-Tec/TimeTable/assets/150478974/71d6eb63-1961-43c1-8860-5b0d138def6a)
+          
  
 
 
