@@ -54,6 +54,6 @@ Para testar a aplicação é necessário seguir os seguintes passos:
       
           ![menumuraldeavisos](https://user-images.githubusercontent.com/59966478/224860585-656f394b-140d-4367-8ae2-f0e90985f472.png) ![teladetalheavisos](https://user-images.githubusercontent.com/59966478/224860702-000e285f-fd3f-4e6e-85d1-179fd1f31591.png)
 
-
+![telainicial](https://github.com/Bruna-Tec/TimeTable/assets/150478974/fa4318af-170c-4d4b-8a99-a27a7462615d)
 
 
