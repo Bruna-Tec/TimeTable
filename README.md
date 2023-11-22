@@ -35,7 +35,7 @@ Para testar a aplicação é necessário seguir os seguintes passos:
    
   2. Realizado o login o usuário será levado á uma tela de boas vindas onde deverá escolher um curso e clicar em acessar.
    
-        ![telaboasvindas](https://user-images.githubusercontent.com/59966478/224854762-6ddbd6ca-9363-4862-8aef-41f4cb605774.png)
+        ![boasvindas](https://github.com/Bruna-Tec/TimeTable/assets/150478974/87c0fb34-4472-4b3d-968c-f9946f606fc0).![escolhecurso](https://github.com/Bruna-Tec/TimeTable/assets/150478974/b865297f-20be-42a7-a3c0-0b7345a256d4)
         
   4. Selecionado o curso abre-se o menu, onde estão habilitadas para teste as seguintes funções: ***Notas e Frequências***, ***Atividades***, ***Calendário*** e ***Mural de avisos***, tambem é possível voltar para a tela anterior ou sair do aplicativo.
 
