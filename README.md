@@ -18,7 +18,7 @@ Para testar a aplicação é necessário seguir os seguintes passos:
 
 1. A tela inicial do ***TIMETABLE*** possibilita duas açoes dependendo de qual botão é selecionado:
 
-    ![telainicial](https://user-images.githubusercontent.com/59966478/224850740-3e7787f7-4c69-4ed3-98ff-dba4e619fcbe.png)
+   ![testetamanho](https://github.com/Bruna-Tec/TimeTable/assets/150478974/9076567f-1ad3-4832-a2ba-3ed11fca76e3)
 
   1. O botão _"CADASTRE_SE AGORA"_ direciona para a primeira de três telas nas quais usuário informa os dados solicitados. Na última tela, ao clicar em cadastrar o usuário finaliza o cadastro estando apto a acessar a aplicação.
         
@@ -54,6 +54,6 @@ Para testar a aplicação é necessário seguir os seguintes passos:
       
           ![menumuraldeavisos](https://user-images.githubusercontent.com/59966478/224860585-656f394b-140d-4367-8ae2-f0e90985f472.png) ![teladetalheavisos](https://user-images.githubusercontent.com/59966478/224860702-000e285f-fd3f-4e6e-85d1-179fd1f31591.png)
 
-![telainicial](https://github.com/Bruna-Tec/TimeTable/assets/150478974/fa4318af-170c-4d4b-8a99-a27a7462615d)
+ 
 
 
