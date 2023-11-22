@@ -29,7 +29,8 @@ Para testar a aplicação é necessário seguir os seguintes passos:
         **OBS:** No primeiro acesso é preciso cadastrar um usuário.
         
   3. o botão _"CADASTRAR"_ leva à página de login onde é solicitado o email e a senha cadastrados. Ao inserir email ou senha incorretos ou não cadastrados será mostrada uma mensagem de erro.
-   
+     
+   ![login1](https://github.com/Bruna-Tec/TimeTable/assets/150478974/efd1acf7-ae1d-4971-81a3-dcef7b5980a8).![login2](https://github.com/Bruna-Tec/TimeTable/assets/150478974/46d68360-25b8-465f-9c1b-fdc4845fdaed)
        
    
   2. Realizado o login o usuário será levado á uma tela de boas vindas onde deverá escolher um curso e clicar em acessar.
