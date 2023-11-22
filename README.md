@@ -40,10 +40,12 @@ Para testar a aplicação é necessário seguir os seguintes passos:
   4. Selecionado o curso abre-se o menu, onde estão habilitadas para teste as seguintes funções: ***Notas e Frequências***, ***Atividades***, ***Calendário*** e ***Mural de avisos***, tambem é possível voltar para a tela anterior ou sair do aplicativo.
 
 
+     ![menu](https://github.com/Bruna-Tec/TimeTable/assets/150478974/e123ca2f-5b46-4495-b997-af9a23920f5a)
+
       
-      1. Ao clicar em ***Notas e Frequências*** será direcionado à tela onde estão relacionadas as notas e faltas das disciplinas. Para voltar ao menú principal basta clicar no icone do menú.
+      1. Ao clicar em ***Notas e Frequência*** será direcionado à tela onde estão relacionadas as notas e faltas das disciplinas. Para voltar ao menu principal basta clicar no ícone do men.
       
-          ![telanotasefrequencias](https://user-images.githubusercontent.com/59966478/224857709-6e2bcd9f-71a4-4a8c-bf38-2f6e9ad1b9f3.png) ![telanotasefrequencias2](https://user-images.githubusercontent.com/59966478/224857740-20f56fe0-45e5-464f-abc7-41620c641afd.png)
+         
     
       2. Ao selecionar ***Atividades*** o aplicativo abre a tela contendo quadros com os nomes da atividades, as datas de entrega, o status da atividade e botões para abrir outra tela com maiores detalhes sobre a atividade selecionada. É possível voltar ao menú principal clicando no botão de menú ou voltar para a tela anterior atraves do botão ***VOLTAR***.
       
