@@ -21,12 +21,14 @@ Para testar a aplicação é necessário seguir os seguintes passos:
    ![testetamanho](https://github.com/Bruna-Tec/TimeTable/assets/150478974/9076567f-1ad3-4832-a2ba-3ed11fca76e3)
 
   1. O botão _"CADASTRE_SE AGORA"_ direciona para a primeira de três telas nas quais usuário informa os dados solicitados. Na última tela, ao clicar em cadastrar o usuário finaliza o cadastro estando apto a acessar a aplicação.
+
+     ![cadastro1email](https://github.com/Bruna-Tec/TimeTable/assets/150478974/086f6c15-56a9-42bb-863d-619d0a7abc9c)
         
-        ![telacadastro1](https://user-images.githubusercontent.com/59966478/224851182-eb6f0e9e-4f3d-47cf-b44b-50966544ec8d.png) ![telacadastro2](https://user-images.githubusercontent.com/59966478/224851185-05e411a8-cf26-4f40-91b1-9763c48f7318.png) ![telacadastro3](https://user-images.githubusercontent.com/59966478/224851187-d5f8b7e5-4f6e-4444-8e52-7edef79cbc39.png)
+       
 
         **OBS:** No primeiro acesso é preciso cadastrar um usuário.
         
-  2. o botão _"CADASTRAR"_ leva à página de login onde é solicitado o email e a senha cadastrados. Ao inserir email ou senha incorretos ou não cadastrados será mostrada uma mensagem de erro.
+  3. o botão _"CADASTRAR"_ leva à página de login onde é solicitado o email e a senha cadastrados. Ao inserir email ou senha incorretos ou não cadastrados será mostrada uma mensagem de erro.
    
         ![telalogin](https://user-images.githubusercontent.com/59966478/224853347-d8f72bb1-2901-436e-812a-c664f223630a.png) ![telaerroaologar](https://user-images.githubusercontent.com/59966478/224853369-4c21a817-8609-47fc-998b-bb4d892967ae.png)
    
@@ -55,5 +57,6 @@ Para testar a aplicação é necessário seguir os seguintes passos:
           ![menumuraldeavisos](https://user-images.githubusercontent.com/59966478/224860585-656f394b-140d-4367-8ae2-f0e90985f472.png) ![teladetalheavisos](https://user-images.githubusercontent.com/59966478/224860702-000e285f-fd3f-4e6e-85d1-179fd1f31591.png)
 
  
+
 
 
