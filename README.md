@@ -20,17 +20,17 @@ Para testar a aplicação é necessário seguir os seguintes passos:
 
    ![testetamanho](https://github.com/Bruna-Tec/TimeTable/assets/150478974/9076567f-1ad3-4832-a2ba-3ed11fca76e3)
 
-  1. O botão _"CADASTRE_SE AGORA"_ direciona para a primeira de três telas nas quais usuário informa os dados solicitados. Na última tela, ao clicar em cadastrar o usuário finaliza o cadastro estando apto a acessar a aplicação.
+  1. O botão _"CADASTRE_SE AGORA"_ direciona para a primeira de três telas nas quais usuário informa os dados solicitados. Na última tela, ao clicar em cadastrar o usuário finaliza o cadastro estando apto a acessar a aplicação. Na primeira tela, ao informar o e-mail, caso seja feito de maneira errada, o usuário recebera uma mensagem de erro, até que o e-mail seja informado de maneira adequada. Na terceira tela, ao digitar o CEP e clicar na lupa, os demais dados de endereço são preenchidos automaticamente.
 
-     ![cadastro1email](https://github.com/Bruna-Tec/TimeTable/assets/150478974/086f6c15-56a9-42bb-863d-619d0a7abc9c)
-        
-       
+     ![cadastro1email](https://github.com/Bruna-Tec/TimeTable/assets/150478974/086f6c15-56a9-42bb-863d-619d0a7abc9c). ![cadastro2](https://github.com/Bruna-Tec/TimeTable/assets/150478974/ce33da99-6cd6-4974-907f-b2e2219c0908).![cadastro3](https://github.com/Bruna-Tec/TimeTable/assets/150478974/1f8b6d36-c38f-426b-879a-d24be245a081)
+
+     
 
         **OBS:** No primeiro acesso é preciso cadastrar um usuário.
         
   3. o botão _"CADASTRAR"_ leva à página de login onde é solicitado o email e a senha cadastrados. Ao inserir email ou senha incorretos ou não cadastrados será mostrada uma mensagem de erro.
    
-        ![telalogin](https://user-images.githubusercontent.com/59966478/224853347-d8f72bb1-2901-436e-812a-c664f223630a.png) ![telaerroaologar](https://user-images.githubusercontent.com/59966478/224853369-4c21a817-8609-47fc-998b-bb4d892967ae.png)
+       
    
   2. Realizado o login o usuário será levado á uma tela de boas vindas onde deverá escolher um curso e clicar em acessar.
    
