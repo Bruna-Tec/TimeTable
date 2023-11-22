@@ -44,18 +44,19 @@ Para testar a aplicação é necessário seguir os seguintes passos:
 
       
       1. Ao clicar em ***Notas e Frequência*** será direcionado à tela onde estão relacionadas as notas e faltas das disciplinas. Para voltar ao menu principal basta clicar no ícone do men.
-      
+         
+      ![notasfrequencia](https://github.com/Bruna-Tec/TimeTable/assets/150478974/eac4d316-1d19-4d1c-a55d-030f7c3fe49f)
          
     
-      2. Ao selecionar ***Atividades*** o aplicativo abre a tela contendo quadros com os nomes da atividades, as datas de entrega, o status da atividade e botões para abrir outra tela com maiores detalhes sobre a atividade selecionada. É possível voltar ao menú principal clicando no botão de menú ou voltar para a tela anterior atraves do botão ***VOLTAR***.
+      3. Ao selecionar ***Atividades*** o aplicativo abre a tela contendo quadros com os nomes da atividades, as datas de entrega, o status da atividade e botões para abrir outra tela com maiores detalhes sobre a atividade selecionada. É possível voltar ao menú principal clicando no botão de menú ou voltar para a tela anterior atraves do botão ***VOLTAR***.
       
           ![menuatividades](https://user-images.githubusercontent.com/59966478/224859226-f79aa756-920f-4b51-918b-11c69500a81c.png) ![telaatividades2](https://user-images.githubusercontent.com/59966478/224859234-325379f1-a34d-41da-bd3e-da9a80515e94.png)
           
-      3. Ao clicar em calendário abre-se uma tela contendo a relação da atividades agendadas. O botão ***CONTINUAR*** retorna ao menú principal.
+      4. Ao clicar em calendário abre-se uma tela contendo a relação da atividades agendadas. O botão ***CONTINUAR*** retorna ao menú principal.
       
           ![menucalendario](https://user-images.githubusercontent.com/59966478/224859712-7ac6178a-a445-4865-890f-3330c9b0378c.png)
           
-      4. O caminho ***Mural de avisos*** abre uma tela contendo quadros com mensagens de aviso. É possível navegar entre as telas do Mural clicando nos números na base da tela. É possível ainda, abrir uma tela com detalhes sobre cada aviso clicando no botão ***Ler mais***.
+      5. O caminho ***Mural de avisos*** abre uma tela contendo quadros com mensagens de aviso. É possível navegar entre as telas do Mural clicando nos números na base da tela. É possível ainda, abrir uma tela com detalhes sobre cada aviso clicando no botão ***Ler mais***.
       
           ![menumuraldeavisos](https://user-images.githubusercontent.com/59966478/224860585-656f394b-140d-4367-8ae2-f0e90985f472.png) ![teladetalheavisos](https://user-images.githubusercontent.com/59966478/224860702-000e285f-fd3f-4e6e-85d1-179fd1f31591.png)
 
