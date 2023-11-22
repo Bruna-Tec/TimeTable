@@ -1,11 +1,11 @@
 ##                                      <h1 align="center"> TIMETABLE </h1>
 
+O aplicativo **_TIMETABLE_**  foi criado seguindo a proposta de desenvolvimento de um Sistema Web Modularizavel do Projeto Integrador do 4º semestre do curso de Sistemas para Internet do Senac EAD.
 
 
+**_TIMETABLE_** é um aplicativo lowcode desenvolvido com  _Power Apps_ e destina-se ao uso acadêmico para melhor organização da agenda do aluno. Por meio dele o aluno consegue fazer a consulta de notas, faltas, avisos e demais atividades relacionadas.
 
-**_TIMETABLE_** é um aplicativo lowcode feito em  _Power Apps_ e destina-se ao uso acadêmico para melhor organização da agenda do aluno. Por meio dele o aluno consegue fazer a consulta de notas, faltas, avisos e demais atividades relacionadas.
-
-O aplicativo **_TIMETABLE_**  foi criado seguindo a proposta de desenvolvimento de um Sistema Web Modularizavel do Projeto Integrador do 4º semestre do curso de Sistemas para Internet do Senac EAD. 
+ 
 
 ## Autoras
 
