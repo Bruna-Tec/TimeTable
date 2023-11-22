@@ -39,7 +39,7 @@ Para testar a aplicação é necessário seguir os seguintes passos:
         
   4. Selecionado o curso abre-se o menu, onde estão habilitadas para teste as seguintes funções: ***Notas e Frequências***, ***Atividades***, ***Calendário*** e ***Mural de avisos***, tambem é possível voltar para a tela anterior ou sair do aplicativo.
 
-      ![telamenu](https://user-images.githubusercontent.com/59966478/224856644-c8cf3b44-337f-4fca-9bba-d6f92cac5e23.png)
+
       
       1. Ao clicar em ***Notas e Frequências*** será direcionado à tela onde estão relacionadas as notas e faltas das disciplinas. Para voltar ao menú principal basta clicar no icone do menú.
       
