@@ -12,7 +12,7 @@ O aplicativo **_TIMETABLE_**  foi criado seguindo a proposta de desenvolvimento 
 - Desenvolvimento: Bruna Pacheco [@BrunaPpacheco](https://github.com/BrunaPpacheco)
 - Design: Ingrid da Cruz Santos [@LillyButterfly](https://github.com/LillyButterfly)
 
-## Executando Testes
+## Testando
 
 Para testar a aplicação é necessário seguir os seguintes passos:
 
@@ -61,7 +61,7 @@ Para testar a aplicação é necessário seguir os seguintes passos:
       
         ![muraldeavisos](https://github.com/Bruna-Tec/TimeTable/assets/150478974/77b334da-cb0d-4870-853f-7d579bccc2c2). ![aviso](https://github.com/Bruna-Tec/TimeTable/assets/150478974/71d6eb63-1961-43c1-8860-5b0d138def6a)
 
-     6. Para sair, basta retornar ao menu principal e acionar o ícone ***SAIR***, retornando a tela incial.
+      6. Para sair, basta retornar ao menu principal e acionar o ícone ***SAIR***, retornando a tela incial.
 
         ![sair](https://github.com/Bruna-Tec/TimeTable/assets/150478974/1684b894-975e-4afe-aab4-7e14d458f07a)
           
