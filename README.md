@@ -19,9 +19,9 @@ O aplicativo **_TIMETABLE_**  foi criado seguindo a proposta de desenvolvimento 
  - Figma
 
 
-## Testando
+## Exemplo de uso
 
-Para testar a aplicação é necessário seguir os seguintes passos:
+Para usar a aplicação é necessário seguir os seguintes passos:
 
 1. A tela inicial do ***TIMETABLE*** possibilita duas açoes dependendo de qual botão é selecionado:
 
