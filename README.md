@@ -6,11 +6,18 @@ O aplicativo **_TIMETABLE_**  foi criado seguindo a proposta de desenvolvimento 
 **_TIMETABLE_** é um aplicativo lowcode desenvolvido com  _Power Apps_ e destina-se ao uso acadêmico para melhor organização da agenda do aluno. Por meio dele o aluno consegue fazer a consulta de notas, faltas, avisos e demais atividades relacionadas.
 
  
-
 ## Autoras
 
 - Desenvolvimento: Bruna Pacheco [@BrunaPpacheco](https://github.com/BrunaPpacheco)
 - Design: Ingrid da Cruz Santos [@LillyButterfly](https://github.com/LillyButterfly)
+
+ ## Construído com:
+
+ - PowerApps
+ - Power Automate
+ - Dataverse
+ - Figma
+
 
 ## Testando
 
