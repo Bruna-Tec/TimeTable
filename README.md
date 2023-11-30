@@ -15,7 +15,6 @@ O aplicativo **_TIMETABLE_**  foi criado seguindo a proposta de desenvolvimento 
 
  - PowerApps
  - Power Automate
- - Dataverse
  - Figma
 
 
